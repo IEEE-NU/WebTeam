@@ -1,0 +1,19 @@
+html *
+{
+	font-family: Arial;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+h2 {
+	color: white;
+	background-color: purple;
+	text-align: center;
+}
+
+body {
+	color: gray;
+}
