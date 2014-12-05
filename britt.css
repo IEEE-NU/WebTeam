@@ -1,0 +1,21 @@
+body {margin-top:50px; width:100%;}
+
+.full-width {width:95%; margin:auto;}
+
+#top-div {display:table;}
+#info-div {width:70%;display:table-cell;}
+
+#image-div {
+	width:30%;
+	display:table-cell;
+	background-image:url("https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/165864_10151386851629715_121637776_n.jpg?oh=47be3c46134b2e4c66d5741cabaa5b49&oe=5506C3B9&__gda__=1426436445_d736a2d636b80bf909cd1d1c2b9f9997");
+	background-size:contain;
+	background-repeat:no-repeat;
+	background-position:right;
+}
+
+.fav-div {
+	width:33%;
+	float:left;
+	text-align:center;
+}
