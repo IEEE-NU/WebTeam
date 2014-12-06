@@ -1,0 +1,25 @@
+.bottom 
+{width:33%;
+background-color:Gainsboro;
+color:black;
+float:left;
+font-family: Papyrus;}
+
+.mid
+{background-color:Gainsboro;
+color:black;
+font-family: Papyrus;}
+
+.top
+{
+	background-color:Gainsboro;
+	color:black;
+	font-family: Papyrus;
+}
+
+.pic
+{
+	float:right;
+	width:10.25%;
+	padding:10px;
+}
